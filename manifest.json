@@ -1,0 +1,384 @@
+{
+  "title": "Sống tốt hơn",
+  "subtitle": "Cẩm nang cân nhắc thời gian, sức khỏe, tiền bạc và tự do",
+  "language": "vi",
+  "source_repository": "https://github.com/eternity4719/HowToLiveBetter",
+  "source_commit": "d2de3fc8da8c109f082b3551d4d26e0fbb01641d",
+  "source_date": "2026-11-04",
+  "source_clone": "../HowToLiveBetter",
+  "license": "CC BY 4.0",
+  "edition_status": "Bản thảo đầy đủ 34 chương, 772 mục và 9 bài bổ sung",
+  "chapters": [
+    {
+      "number": 1,
+      "source": "book/01-不要早死.md",
+      "source_sha256": "146ce3385a348b893f2899bb44ebc5641bc7065cfa25583fb141272eb930ce9b",
+      "source_title": "1. 不要早死",
+      "entries": 49,
+      "translation": "book/01-tranh-tu-vong-som.md",
+      "status": "draft"
+    },
+    {
+      "number": 2,
+      "source": "book/02-不要慢慢死.md",
+      "source_sha256": "cf08bdad5e9f29e9e823972143fde756c321c4964b4a1c171b5a2583cd109918",
+      "source_title": "2. 不要慢慢死",
+      "entries": 47,
+      "translation": "book/02-dung-bao-mon-suc-khoe.md",
+      "status": "draft"
+    },
+    {
+      "number": 3,
+      "source": "book/03-不要浪费精力.md",
+      "source_sha256": "0f314b37339d01c2262c5b87fb0059645e7d11729ef3927e61139755e0e19192",
+      "source_title": "3. 不要浪费精力",
+      "entries": 27,
+      "translation": "book/03-dung-lang-phi-nang-luong.md",
+      "status": "draft"
+    },
+    {
+      "number": 4,
+      "source": "book/04-不要浪费时间.md",
+      "source_sha256": "0ce41e57732cdadef83b5ba19f1ba4fae1c23c9463bec5537fd07bbb3df9c3ab",
+      "source_title": "4. 不要浪费时间",
+      "entries": 18,
+      "translation": "book/04-dung-lang-phi-thoi-gian.md",
+      "status": "draft"
+    },
+    {
+      "number": 5,
+      "source": "book/05-不要浪费钱.md",
+      "source_sha256": "113207155cf8f85ef40b9f865f17843a672a63835d41801acfc9727d16dfbe61",
+      "source_title": "5. 不要浪费钱",
+      "entries": 51,
+      "translation": "book/05-dung-lang-phi-tien.md",
+      "status": "draft"
+    },
+    {
+      "number": 6,
+      "source": "book/06-反面清单.md",
+      "source_sha256": "3da1e702b927dc1d30d833883bd3c48f0015149b86eb5161b222190f85214e17",
+      "source_title": "6. 反面清单",
+      "entries": 35,
+      "translation": "book/06-nhung-viec-nen-tranh.md",
+      "status": "draft"
+    },
+    {
+      "number": 7,
+      "source": "book/07-没钱的时候怎么活.md",
+      "source_sha256": "2de7075caa075f9e07abeb463f59446c4ca8f0d6ccb60c8809eaf571f1c07195",
+      "source_title": "7. 没钱的时候怎么活",
+      "entries": 23,
+      "translation": "book/07-song-khi-thieu-tien.md",
+      "status": "draft"
+    },
+    {
+      "number": 8,
+      "source": "book/08-别把自己搭进去.md",
+      "source_sha256": "591402af0208e646ff7ab551b653e00861c01f4778f801ac04a5e2b1fb31be23",
+      "source_title": "8. 别把自己搭进去：法律与财产安全",
+      "entries": 46,
+      "translation": "book/08-an-toan-phap-ly-va-tai-san.md",
+      "status": "draft"
+    },
+    {
+      "number": 9,
+      "source": "book/09-普通人容易踩的法律红线.md",
+      "source_sha256": "7aeb5313df434bc0a612cd17c09f6d5b1d69aa479d3121c5fb07b5970ab56a35",
+      "source_title": "9. 普通人容易踩的法律红线",
+      "entries": 29,
+      "translation": "book/09-nhung-ranh-gioi-phap-ly-de-vuong.md",
+      "status": "draft"
+    },
+    {
+      "number": 10,
+      "source": "book/10-恋爱和结婚划不划算.md",
+      "source_sha256": "399a6afaeb8572d2c18424c670924f3013cd731d5219a239a560cdb5b972f94e",
+      "source_title": "10. 恋爱和结婚划不划算",
+      "entries": 23,
+      "translation": "book/10-yeu-va-ket-hon-co-dang-khong.md",
+      "status": "draft"
+    },
+    {
+      "number": 11,
+      "source": "book/11-程序员和技术人容易踩的红线.md",
+      "source_sha256": "508c7f178992c7fe6edef732d09072e9dc151fc8bed91f993806063e91043a0f",
+      "source_title": "11. 程序员和技术人容易踩的红线",
+      "entries": 21,
+      "translation": "book/11-nhung-ranh-gioi-phap-ly-nguoi-lam-cong-nghe-can-biet.md",
+      "status": "draft"
+    },
+    {
+      "number": 12,
+      "source": "book/12-创业与做生意.md",
+      "source_sha256": "3352602c7e265c6c4f722f8953a387e1f173ac483539fb58314822f1705252ae",
+      "source_title": "12. 创业与做生意：别把家底赔进去",
+      "entries": 28,
+      "translation": "book/12-khoi-nghiep-va-kinh-doanh.md",
+      "status": "draft"
+    },
+    {
+      "number": 13,
+      "source": "book/13-紧急情况.md",
+      "source_sha256": "54d94a685802c6a7f417b548f2d61f70ed68d628bbd875350a385c99985125e1",
+      "source_title": "13. 紧急情况：先做什么",
+      "entries": 49,
+      "translation": "book/13-tinh-huong-khan-cap.md",
+      "status": "draft"
+    },
+    {
+      "number": 14,
+      "source": "book/14-账号与信息安全.md",
+      "source_sha256": "3424a8a840d4c95aa1b1158ccc5442c0fd48b54b1e2398cf620929cc81a020bc",
+      "source_title": "14. 账号与信息安全",
+      "entries": 12,
+      "translation": "book/14-bao-ve-tai-khoan-va-thong-tin.md",
+      "status": "draft"
+    },
+    {
+      "number": 15,
+      "source": "book/15-租房与买房.md",
+      "source_sha256": "a4aeb24e87cbf6a658b23e2c7a75463d01b5eb59053d63441cf53dc91b0a08f1",
+      "source_title": "15. 租房与买房",
+      "entries": 18,
+      "translation": "book/15-thue-va-mua-nha.md",
+      "status": "draft"
+    },
+    {
+      "number": 16,
+      "source": "book/16-得了慢性病之后怎么活.md",
+      "source_sha256": "3ccb8d90a9ccf030258be8a2b9bdc8bf9fa19f88f9d01acd3a4b7da102a98472",
+      "source_title": "16. 得了慢性病之后怎么活",
+      "entries": 14,
+      "translation": "book/16-song-voi-benh-man-tinh.md",
+      "status": "draft"
+    },
+    {
+      "number": 17,
+      "source": "book/17-家里有老人.md",
+      "source_sha256": "27ecc277bfe676d82d697c83f896fa9a42255944ed5a917ace81d26d4fc13257",
+      "source_title": "17. 家里有老人",
+      "entries": 13,
+      "translation": "book/17-nha-co-nguoi-cao-tuoi.md",
+      "status": "draft"
+    },
+    {
+      "number": 18,
+      "source": "book/18-养孩子划不划算.md",
+      "source_sha256": "00c50a53ebc837b02d93d1399fb1ab2cba8704b13ce02cd5029d62c6defbea7f",
+      "source_title": "18. 养孩子划不划算",
+      "entries": 7,
+      "translation": "book/18-can-nhac-chuyen-nuoi-con.md",
+      "status": "draft"
+    },
+    {
+      "number": 19,
+      "source": "book/19-在职离职和工伤.md",
+      "source_sha256": "a0c698df02d89fa272af26c60aea22e00e01e431d4cf3329c3add34c661a7fe2",
+      "source_title": "19. 在职、离职和工伤",
+      "entries": 25,
+      "translation": "book/19-di-lam-nghi-viec-va-tai-nan-lao-dong.md",
+      "status": "draft"
+    },
+    {
+      "number": 20,
+      "source": "book/20-刚出生的孩子怎么带.md",
+      "source_sha256": "7582988a3ffd3ec4ffde8f386e536a7e20f0202446e4d780ff1491608a3385ac",
+      "source_title": "20. 刚出生的孩子怎么带",
+      "entries": 17,
+      "translation": "book/20-cham-tre-so-sinh.md",
+      "status": "draft"
+    },
+    {
+      "number": 21,
+      "source": "book/21-出国旅行与境外安全.md",
+      "source_sha256": "7326b49cab0e623e30cf74d4e5675020447fd382a16d018d1b286cfa7e5a4369",
+      "source_title": "21. 出国、旅行与境外安全",
+      "entries": 13,
+      "translation": "book/21-du-lich-va-an-toan-o-nuoc-ngoai.md",
+      "status": "draft"
+    },
+    {
+      "number": 22,
+      "source": "book/22-怎么放松.md",
+      "source_sha256": "b8bc08ee90411b2ca35cc187a772ccded9c4518f06f31263bee2c9bf131b4dfa",
+      "source_title": "22. 怎么放松：娱乐场所和减压",
+      "entries": 13,
+      "translation": "book/22-thu-gian-va-giam-cang-thang.md",
+      "status": "draft"
+    },
+    {
+      "number": 23,
+      "source": "book/23-学什么技能划算.md",
+      "source_sha256": "d537293950bb1301b47b95573937b7b8fdc0dae2db90a30db25014d414dbc0ca",
+      "source_title": "23. 学什么技能划算",
+      "entries": 25,
+      "translation": "book/23-hoc-gi-va-hoc-the-nao.md",
+      "status": "draft"
+    },
+    {
+      "number": 24,
+      "source": "book/24-看病.md",
+      "source_sha256": "297297bf673c65c761ec13642fb1bae6d01af9943ee8e1d4af2f2e5160765b82",
+      "source_title": "24. 看病：怎么少花钱少走弯路",
+      "entries": 15,
+      "translation": "book/24-di-kham-it-ton-kem-it-vong-vo.md",
+      "status": "draft"
+    },
+    {
+      "number": 25,
+      "source": "book/25-人走了以后要办什么.md",
+      "source_sha256": "162d5c0d2d1e129c113315b924267bafb76738c11aaee0227c2e3de0275927c3",
+      "source_title": "25. 人走了以后要办什么",
+      "entries": 12,
+      "translation": "book/25-thu-tuc-khi-nguoi-than-qua-doi.md",
+      "status": "draft"
+    },
+    {
+      "number": 26,
+      "source": "book/26-做一个网站或平台.md",
+      "source_sha256": "2e984668db5e24348230a79db0e026eefae5e29a1b0b82f88a2441767c8bdb21",
+      "source_title": "26. 做一个网站或平台：资质、备案和服务器",
+      "entries": 13,
+      "translation": "book/26-lam-website-va-nen-tang.md",
+      "status": "draft"
+    },
+    {
+      "number": 27,
+      "source": "book/27-怀孕和生产.md",
+      "source_sha256": "7f43af84e2afab01d23fada4db7b8c982885c8a9faaa121d86f4a280da0b49bb",
+      "source_title": "27. 怀孕和生产：从发现怀孕到出院办证",
+      "entries": 20,
+      "translation": "book/27-mang-thai-va-sinh-con.md",
+      "status": "draft"
+    },
+    {
+      "number": 28,
+      "source": "book/28-别为了外形把身体搞坏.md",
+      "source_sha256": "c48042789962c73cbe6b09e8863ecd8ba152412b99ca5eadfdf6a9ad417e0e17",
+      "source_title": "28. 别为了外形把身体搞坏",
+      "entries": 10,
+      "translation": "book/28-dung-hai-suc-khoe-vi-ngoai-hinh.md",
+      "status": "draft"
+    },
+    {
+      "number": 29,
+      "source": "book/29-遭遇重大打击之后.md",
+      "source_sha256": "71d383444e16c3dde73500350d573576e84fc7d4f5ba707e46e526b1acbd719a",
+      "source_title": "29. 遭遇重大打击之后",
+      "entries": 14,
+      "translation": "book/29-sau-mot-bien-co-lon.md",
+      "status": "draft"
+    },
+    {
+      "number": 30,
+      "source": "book/30-上学以后的孩子.md",
+      "source_sha256": "ca03fed26f9b42d62dd595143638626734c8a3a7541059cbc3f243179f0f93e4",
+      "source_title": "30. 上学以后的孩子",
+      "entries": 21,
+      "translation": "book/30-tre-trong-nhung-nam-di-hoc.md",
+      "status": "draft"
+    },
+    {
+      "number": 31,
+      "source": "book/31-十八岁之后有哪几条路.md",
+      "source_sha256": "fee3343d0816e3c2877bffeae8ef944528aa9b39997405d90f37328f4e062657",
+      "source_title": "31. 十八岁之后有哪几条路",
+      "entries": 17,
+      "translation": "book/31-nhung-con-duong-sau-tuoi-muoi-tam.md",
+      "status": "draft"
+    },
+    {
+      "number": 32,
+      "source": "book/32-出国留学.md",
+      "source_sha256": "8992babffb2c7f7d53a623dbce4e8d02c048dcb74be9a358adba537a3cb29555",
+      "source_title": "32. 出国留学：身份、打工、保险和回国认证",
+      "entries": 12,
+      "translation": "book/32-du-hoc.md",
+      "status": "draft"
+    },
+    {
+      "number": 33,
+      "source": "book/33-残疾之后怎么活.md",
+      "source_sha256": "4c55b67c18ae7b6508ae283981b31843e73a616b8f6867641faa58d45f988c6c",
+      "source_title": "33. 残疾之后怎么活",
+      "entries": 21,
+      "translation": "book/33-song-khi-co-khuyet-tat.md",
+      "status": "draft"
+    },
+    {
+      "number": 34,
+      "source": "book/34-家里的常备药别吃出事.md",
+      "source_sha256": "1f67cf0e2e273a42e0924109adf55f996f39b07837951364a0c7ac42af7f0aeb",
+      "source_title": "34. 家里的常备药别吃出事",
+      "entries": 14,
+      "translation": "book/34-dung-thuoc-trong-nha-an-toan.md",
+      "status": "draft"
+    }
+  ],
+  "appendices": [
+    {
+      "id": "a1",
+      "source": "docs/家庭应急装备清单.md",
+      "source_sha256": "dd1760fef5e967ceffd0a988cc789efa91b5c9d2cc7135c6891a5258a0191603",
+      "translation": "appendices/a1-do-dung-ung-pho-khan-cap.md",
+      "status": "draft"
+    },
+    {
+      "id": "a2",
+      "source": "docs/遇到陌生人出事该不该停.md",
+      "source_sha256": "5ac0bac9f2b6fdac80b554921918831341e1f003f753544bc29e1820c372db65",
+      "translation": "appendices/a2-giup-nguoi-la-gap-nan.md",
+      "status": "draft"
+    },
+    {
+      "id": "a3",
+      "source": "docs/做平台要办哪些证.md",
+      "source_sha256": "219d9d4532269b5df38c3c037ff9558bc84942209567fad99b13b1ff69e1de2f",
+      "translation": "appendices/a3-giay-phep-cho-nen-tang.md",
+      "status": "draft"
+    },
+    {
+      "id": "a4",
+      "source": "docs/结婚划不划算.md",
+      "source_sha256": "062137b3415709813df2042c67ae2d16f8c3438f2f7f0ec9e7d5bea5bd7b9cdb",
+      "translation": "appendices/a4-can-nhac-ket-hon.md",
+      "status": "draft"
+    },
+    {
+      "id": "a5",
+      "source": "docs/生物钟和夜班.md",
+      "source_sha256": "0095a6cfee0a3cbb863245d54eb278341d95be35b63ee1460a5ba3e333cdb7ff",
+      "translation": "appendices/a5-dong-ho-sinh-hoc-va-ca-dem.md",
+      "status": "draft"
+    },
+    {
+      "id": "a6",
+      "source": "docs/被裁了之后先做什么.md",
+      "source_sha256": "fc50d80377676b33da9b551ac65193a169b4510b3c07cb922160bbede2db98ac",
+      "translation": "appendices/a6-viec-can-lam-khi-bi-cat-giam.md",
+      "status": "draft"
+    },
+    {
+      "id": "a7",
+      "source": "docs/孩子出生前后要办的事.md",
+      "source_sha256": "0e421bb812e63f86805ece55d229e165c3375507fd1d85de9381036e47e2e110",
+      "translation": "appendices/a7-thu-tuc-truoc-sau-khi-sinh.md",
+      "status": "draft"
+    },
+    {
+      "id": "a8",
+      "source": "docs/刚确诊慢性病之后.md",
+      "source_sha256": "7c4e883033b4032ef11ac446593d989eb8e3b544d47d4d0941191151d1fac2ba",
+      "translation": "appendices/a8-sau-chan-doan-benh-man-tinh.md",
+      "status": "draft"
+    },
+    {
+      "id": "a9",
+      "source": "docs/换工作、换城市之前.md",
+      "source_sha256": "a7bbb05fd55dff021fa1a45ec896858fcd5d153bd49b92922156dff798d5ab0c",
+      "translation": "appendices/a9-truoc-khi-doi-viec-chuyen-noi-song.md",
+      "status": "draft"
+    }
+  ]
+}
