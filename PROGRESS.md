@@ -14,7 +14,7 @@
 | 6 | [6. Những việc nên tránh](book/06-nhung-viec-nen-tranh.md) | 35 | Đã có bản nháp |
 | 7 | [7. Sống khi thiếu tiền](book/07-song-khi-thieu-tien.md) | 23 | Đã có bản nháp |
 | 8 | [8. Đừng tự đẩy mình vào rắc rối: an toàn pháp lý và tài sản](book/08-an-toan-phap-ly-va-tai-san.md) | 46 | Đã có bản nháp |
-| 9 | [9. Những ranh giới pháp lý dễ vướng — bối cảnh Trung Quốc](book/09-nhung-ranh-gioi-phap-ly-de-vuong.md) | 29 | Đã có bản nháp |
+| 9 | [9. Những ranh giới pháp lý dễ vướng](book/09-nhung-ranh-gioi-phap-ly-de-vuong.md) | 29 | Đã có bản nháp |
 | 10 | [10. Yêu và kết hôn có đáng không?](book/10-yeu-va-ket-hon-co-dang-khong.md) | 23 | Đã có bản nháp |
 | 11 | [11. Những ranh giới pháp lý người làm công nghệ cần biết](book/11-nhung-ranh-gioi-phap-ly-nguoi-lam-cong-nghe-can-biet.md) | 21 | Đã có bản nháp |
 | 12 | [12. Khởi nghiệp và kinh doanh: đừng đánh đổi cả gia sản](book/12-khoi-nghiep-va-kinh-doanh.md) | 28 | Đã có bản nháp |
@@ -38,7 +38,7 @@
 | 30 | [30. Trẻ trong những năm đi học](book/30-tre-trong-nhung-nam-di-hoc.md) | 21 | Đã có bản nháp |
 | 31 | [31. Sau tuổi 18, có những con đường nào?](book/31-nhung-con-duong-sau-tuoi-muoi-tam.md) | 17 | Đã có bản nháp |
 | 32 | [32. Du học: tư cách cư trú, việc làm, bảo hiểm và công nhận bằng khi về nước](book/32-du-hoc.md) | 12 | Đã có bản nháp |
-| 33 | [33. Sống tiếp khi đã có khuyết tật](book/33-song-khi-co-khuyet-tat.md) | 21 | Đã có bản nháp |
+| 33 | [33. Sống khi có khuyết tật](book/33-song-khi-co-khuyet-tat.md) | 21 | Đã có bản nháp |
 | 34 | [34. Dùng thuốc trong nhà sao cho an toàn](book/34-dung-thuoc-trong-nha-an-toan.md) | 14 | Đã có bản nháp |
 
 ## Bài bổ sung
@@ -46,7 +46,7 @@
 | Bài | Trạng thái |
 | --- | --- |
 | [Phụ lục A1. Đồ dùng ứng phó khẩn cấp trong nhà: mua gì, để đâu, kiểm tra khi nào](appendices/a1-do-dung-ung-pho-khan-cap.md) | Đã có bản nháp |
-| [Phụ lục A2. Gặp người lạ gặp nạn: đi tiếp hay dừng lại?](appendices/a2-giup-nguoi-la-gap-nan.md) | Đã có bản nháp |
+| [Phụ lục A2. Thấy người lạ gặp nạn: đi tiếp hay dừng lại?](appendices/a2-giup-nguoi-la-gap-nan.md) | Đã có bản nháp |
 | [Phụ lục A3. Làm nền tảng cần giấy phép gì? Bảng đối chiếu và cách chọn máy chủ](appendices/a3-giay-phep-cho-nen-tang.md) | Đã có bản nháp |
 | [Phụ lục A4. Cân nhắc kết hôn: tách một câu hỏi lớn thành năm phần rõ ràng](appendices/a4-can-nhac-ket-hon.md) | Đã có bản nháp |
 | [Phụ lục A5. Cơ thể nhận biết thời gian thế nào, và vì sao làm ca đêm dễ ảnh hưởng sức khỏe?](appendices/a5-dong-ho-sinh-hoc-va-ca-dem.md) | Đã có bản nháp |

@@ -9,46 +9,46 @@ Các việc cần làm nằm rải ở chương 19, chương 7 và những chư�
 1. Công ty đưa giấy “tự nguyện nghỉ vì lý do cá nhân” thì đừng ký nếu thực tế không phải bạn tự xin nghỉ. Bản gốc cảnh báo có thể mất cả khoản bù đắp chấm dứt và trợ cấp thất nghiệp. Xem chương 19, mục 7.
 2. Nếu công ty nói ký cho xong quy trình rồi trả riêng, yêu cầu ghi khoản bù đắp ngay vào thỏa thuận. Chưa ghi thì không ký vội. Bản gốc nhấn mạnh không buộc phải ký ngay hôm đó; đây không phải bảo đảm chung rằng mọi thời hạn, văn bản đều không có hậu quả. Xem chương 19, mục 7.
 3. Giữ chứng cứ cuộc trao đổi. Bản gốc đề nghị ghi âm cuộc nói chuyện chính mình tham gia và nêu không cần xin đồng ý trước trong phạm vi bối cảnh luật được phân tích. Xem chương 8, mục 41 về điều kiện sử dụng chứng cứ; không suy ra áp dụng giống nhau ở mọi nơi.
-4. Trước trả máy, tài khoản, lưu phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm và hội thoại liên quan. Xem chương 19, mục 8.
+4. Trước khi trả máy tính và bàn giao tài khoản, lưu lại phiếu lương, bảng chấm công, hợp đồng lao động, hồ sơ bảo hiểm và các cuộc trao đổi liên quan. Xem chương 19, mục 8.
 5. Chỉ lưu tài liệu về quan hệ lao động của mình; không mang mã nguồn, danh sách khách, tài liệu kỹ thuật của công ty đi. Xem chương 11, mục 7.
-6. Bàn giao tài khoản, quyền truy cập đầy đủ, không xóa dữ liệu, đổi mật khẩu gây cản trở dù đang bị nợ. Xem chương 11, mục 6.
+6. Bàn giao đầy đủ tài khoản và quyền truy cập. Không xóa dữ liệu hoặc đổi mật khẩu để gây cản trở, dù công ty vẫn đang nợ bạn. Xem chương 11, mục 6.
 
 ## Trong ngày và vài ngày đầu: tính các khoản tiền
 
 1. Tính N theo quy tắc Trung Quốc được dẫn: mỗi năm làm đủ tương ứng một tháng lương; chưa đến nửa năm tính nửa tháng. Chi tiết thời gian lẻ và giới hạn xem chương 19, mục 4.
-2. Lương tháng dùng bình quân 12 tháng trước khi nghỉ, gồm thưởng, phụ cấp và trợ cấp theo căn cứ áp dụng, không chỉ lương cơ bản. Đây là chỗ dễ bị tính thấp. Xem chương 19, mục 4.
-3. Hỏi rõ công ty chấm dứt theo điều nào. Bản gốc nêu ba trường hợp có thể thêm một tháng thay báo trước: sau thời gian điều trị không làm được việc phù hợp; không đáp ứng công việc dù đã đào tạo hoặc chuyển vị trí; hoàn cảnh khách quan khi ký thay đổi lớn, không thỏa thuận sửa được. Trong các trường hợp này, không báo trước bằng văn bản 30 ngày thì khoản một tháng thay báo trước được tính riêng ngoài N. Cắt giảm vì kinh tế hoặc chấm dứt do thỏa thuận không tự có khoản đó. Xem chương 19, mục 5.
+2. Mức lương tháng dùng để tính là bình quân của 12 tháng trước khi nghỉ, gồm cả thưởng, phụ cấp và trợ cấp theo căn cứ áp dụng, không chỉ có lương cơ bản. Đây là khoản dễ bị tính thiếu. Xem chương 19, mục 4.
+3. Hỏi rõ công ty căn cứ vào điều luật nào để chấm dứt hợp đồng. Bản gốc nêu ba trường hợp có thể phải trả thêm một tháng lương thay cho báo trước: sau thời gian điều trị, người lao động không làm được công việc phù hợp; đã được đào tạo hoặc chuyển vị trí nhưng vẫn không đáp ứng công việc; hoàn cảnh khách quan lúc ký hợp đồng thay đổi lớn mà hai bên không thống nhất được cách sửa hợp đồng. Trong các trường hợp này, nếu công ty không báo trước bằng văn bản 30 ngày, khoản một tháng lương thay báo trước được tính riêng ngoài N. Cắt giảm vì lý do kinh tế hoặc chấm dứt theo thỏa thuận không tự động có khoản này. Xem chương 19, mục 5.
 4. Chấm dứt trái pháp luật có thể dẫn tới khoản bồi thường 2N theo luật Trung Quốc. Hỏi trợ giúp pháp lý hoặc luật sư xem có đủ điều kiện trước khi quyết định thương lượng hay trọng tài. Xem chương 19, mục 6.
-5. Phép năm chưa dùng được tính kết toán theo thời gian đã làm trong năm và quy định tương ứng. Xem chương 19, mục 2.
+5. Số ngày phép năm chưa dùng được thanh toán theo thời gian đã làm trong năm và quy định tương ứng. Xem chương 19, mục 2.
 6. Tính cả tiền làm thêm còn nợ. Xem chương 19, mục 1.
 
 ## Tuần đầu
 
-1. Làm đăng ký thất nghiệp sớm. Bài gốc nêu trợ cấp tính từ ngày đăng ký, chậm một tháng có thể mất một tháng; cách tiếp nhận, xét hưởng cần theo chương 7, mục 1 và cơ quan thực hiện ở địa phương Trung Quốc.
+1. Đăng ký thất nghiệp sớm. Bài gốc nêu trợ cấp được tính từ ngày đăng ký, nên chậm một tháng có thể mất một tháng trợ cấp. Cách tiếp nhận và xét hưởng cần đối chiếu chương 7, mục 1 và cơ quan thực hiện tại địa phương.
 2. Đăng ký tại cơ sở dịch vụ việc làm công như trung tâm dịch vụ việc làm, không mất phí theo cơ chế được dẫn. Xem chương 7, mục 5.
-3. Xin trợ cấp trên ứng dụng Trung Quốc “掌上12333” hoặc tiểu ứng dụng thẻ bảo hiểm xã hội điện tử. Điều kiện được bài tóm là đã đóng đủ một năm và không tự nguyện mất việc; xem đầy đủ chương 7, mục 1.
+3. Xin trợ cấp qua ứng dụng “掌上12333” hoặc tiểu ứng dụng thẻ bảo hiểm xã hội điện tử. Bài gốc tóm tắt điều kiện là đã đóng đủ một năm và không tự nguyện nghỉ việc; xem đầy đủ tại chương 7, mục 1.
 4. Trong thời gian hưởng trợ cấp, bảo hiểm thất nghiệp có thể đóng bảo hiểm y tế lao động thay bạn theo quy định Trung Quốc, không cần tham gia trùng. Xem chương 7, mục 1.
-5. Không đủ tiền kiện thì liên hệ 12348 của Trung Quốc xin trợ giúp pháp lý. Theo bản gốc, không cần quay về quê xin chứng nhận khó khăn kinh tế theo cách cũ; điều kiện hồ sơ xem chương 7, mục 3.
-6. Có thỏa thuận không cạnh tranh thì giữ bản gốc. Công ty phải trả bù đắp hằng tháng theo điều kiện áp dụng; ba tháng không trả do phía công ty có thể là căn cứ yêu cầu chấm dứt. Xem chương 11, mục 12.
-7. Giữ lịch sinh hoạt: giờ thức cố định, xếp tìm việc vào khung thời gian rõ, tránh ở nhà cả ngày. Xem chương 29, mục 3.
+5. Nếu không đủ tiền khởi kiện, có thể liên hệ 12348 để xin trợ giúp pháp lý. Theo bản gốc, không cần về quê xin giấy chứng nhận khó khăn kinh tế theo cách cũ; điều kiện hồ sơ xem chương 7, mục 3.
+6. Nếu có thỏa thuận không cạnh tranh, giữ bản gốc. Công ty phải trả khoản bù đắp hằng tháng theo điều kiện áp dụng. Việc công ty không trả trong ba tháng do lỗi của mình có thể là căn cứ để yêu cầu chấm dứt thỏa thuận. Xem chương 11, mục 12.
+7. Giữ lịch sinh hoạt đều đặn: thức dậy vào giờ cố định, dành khung giờ rõ ràng để tìm việc và tránh ở nhà cả ngày. Xem chương 29, mục 3.
 
 ## Tháng đầu
 
-1. Lương, làm thêm bị giữ thì theo bối cảnh Trung Quốc có thể phản ánh qua 12333 tới thanh tra lao động rồi xin trọng tài lao động; hai kênh được dẫn không thu phí. Xem chương 7, mục 2.
-2. Xưởng không đăng ký thuê bạn vẫn có đường thanh tra, trọng tài phù hợp. Nợ từ người nhận khoán cần xét bên tổng thầu; làm việc riêng cho gia đình, cá nhân có thể phải ra tòa thay vì tranh chấp lao động. Xem chương 7, mục 22 để xác định đúng bên thuê, không chọn kênh chỉ dựa tên gọi.
-3. Bài gốc nhắc hạn một năm sau nghỉ cho yêu cầu trọng tài về khoản nợ trong bối cảnh được phân tích. Các loại tranh chấp, thời điểm biết quyền bị xâm phạm và việc gián đoạn thời hiệu có điều kiện riêng; xem chương 8, mục 19. Đừng đợi sát hạn mới hành động.
+1. Nếu công ty giữ lương hoặc tiền làm thêm, có thể phản ánh qua 12333 tới cơ quan thanh tra lao động, rồi yêu cầu trọng tài lao động. Theo cơ chế được dẫn, cả hai kênh đều không thu phí. Xem chương 7, mục 2.
+2. Nếu xưởng thuê bạn chưa đăng ký, vẫn có thể có cách giải quyết qua thanh tra hoặc trọng tài phù hợp. Với khoản nợ của người nhận khoán, cần xem trách nhiệm của bên tổng thầu. Nếu làm việc riêng cho gia đình hoặc cá nhân, có thể phải ra tòa thay vì dùng cơ chế tranh chấp lao động. Xem chương 7, mục 22 để xác định đúng bên thuê; đừng chọn cách giải quyết chỉ dựa vào tên gọi.
+3. Trong trường hợp được phân tích, bài gốc nhắc thời hạn một năm sau khi nghỉ việc để yêu cầu trọng tài giải quyết khoản nợ. Tuy nhiên, từng loại tranh chấp, thời điểm biết quyền bị xâm phạm và việc gián đoạn thời hiệu có điều kiện riêng; xem chương 8, mục 19. Đừng chờ sát hạn mới hành động.
 4. Tìm việc qua cơ sở dịch vụ công trước; giới thiệu, hướng nghiệp miễn phí theo cơ chế Trung Quốc, tránh trung gian thu phí không cần thiết. Xem chương 7, mục 5.
 5. Không chỉ gửi hồ sơ: học kỹ năng tìm việc, đặt mục tiêu rõ, hỏi người quen về cơ hội giới thiệu. Xem chương 7, mục 14.
 6. Từ chối yêu cầu trả tiền trước khi nhận việc, vay tiền học để được hứa bố trí việc, hoặc kéo người tham gia. Xem chương 7, mục 15.
 7. Muốn học nghề thì tra danh mục trợ cấp đào tạo của cơ quan nhân lực địa phương Trung Quốc trước khi tự đóng học phí. Xem chương 7, mục 13.
-8. Kiểm tra điều kiện được xác nhận người gặp khó khăn việc làm, như lớn tuổi, thất nghiệp lâu. Được xác nhận có thể có hỗ trợ tự đóng bảo hiểm hoặc vị trí việc làm công ích theo địa phương. Xem chương 7, mục 12.
+8. Kiểm tra xem mình có đủ điều kiện được xác nhận là người gặp khó khăn về việc làm, chẳng hạn lớn tuổi hoặc thất nghiệp lâu ngày, hay không. Người được xác nhận có thể được hỗ trợ tự đóng bảo hiểm hoặc bố trí vị trí việc làm công ích theo chính sách địa phương. Xem chương 7, mục 12.
 
 ## Những tháng tiếp theo
 
-1. Dùng quỹ dự phòng cho chi phí sống nếu có, tránh vay hoặc bán đầu tư lỗ chỉ vì thiếu tiền ngắn hạn. Xem chương 5, mục 27.
+1. Nếu có quỹ dự phòng, dùng quỹ đó cho chi phí sinh hoạt để tránh phải vay hoặc bán khoản đầu tư đang lỗ chỉ vì thiếu tiền ngắn hạn. Xem chương 5, mục 27.
 2. Trong ba tháng đầu, tác giả đề nghị hoãn các quyết định lớn khó đảo ngược như bán nhà, dồn tiền bù đắp vào đầu tư, hùn vốn, bảo lãnh. Đây là khuyến nghị thực hành, xem chương 29, mục 12.
-3. Hết trợ cấp mà chưa có việc thì kiểm tra bảo hiểm y tế tiếp nối. Ở Trung Quốc, bảo hiểm y tế cư dân đóng theo năm; bản gốc nhắc thời gian chờ ba tháng khi đóng lại sau gián đoạn, có điều kiện, ngoại lệ cần xem chương 7, mục 9.
-4. Thời gian đã đóng bảo hiểm hưu trí không về không vì gián đoạn, được cộng dồn theo quy định Trung Quốc. Không cần trả tiền thuê nơi đứng tên đóng hộ trái quy định. Xem chương 7, mục 18.
-5. Thu nhập gia đình dưới chuẩn trợ giúp tối thiểu địa phương thì kiểm tra điều kiện xin hỗ trợ. Xem chương 7, mục 7.
-6. Cần người lắng nghe có thể gọi đường dây hỗ trợ tâm lý miễn phí 12356 nếu ở trong phạm vi dịch vụ Trung Quốc; không dùng đây như số Việt Nam. Xem chương 29, mục 11.
-7. Với khoản chưa thu được, tiếp tục theo dõi thời hiệu ở chương 8, mục 19; bài gốc nhấn mạnh mốc một năm sau nghỉ trong trường hợp được bàn, không để việc tìm việc mới làm quên quyền yêu cầu.
+3. Nếu hết trợ cấp mà vẫn chưa có việc, kiểm tra cách duy trì bảo hiểm y tế. Bảo hiểm y tế cư dân ở Trung Quốc đóng theo năm; bản gốc nhắc thời gian chờ ba tháng khi tham gia lại sau gián đoạn. Các điều kiện và ngoại lệ nằm ở chương 7, mục 9.
+4. Thời gian đã đóng bảo hiểm hưu trí không mất đi khi ngừng đóng một thời gian, mà được cộng dồn theo quy định. Không cần trả tiền thuê một nơi đứng tên đóng hộ trái quy định. Xem chương 7, mục 18.
+5. Nếu thu nhập gia đình thấp hơn chuẩn trợ giúp tối thiểu của địa phương, kiểm tra điều kiện xin hỗ trợ. Xem chương 7, mục 7.
+6. Nếu cần người lắng nghe, có thể gọi đường dây hỗ trợ tâm lý miễn phí 12356 khi đang ở trong phạm vi dịch vụ tại Trung Quốc. Xem chương 29, mục 11.
+7. Với những khoản chưa thu hồi được, tiếp tục theo dõi thời hiệu ở chương 8, mục 19. Bài gốc nhấn mạnh mốc một năm sau khi nghỉ việc trong trường hợp đang bàn; đừng vì mải tìm việc mới mà quên quyền yêu cầu thanh toán.

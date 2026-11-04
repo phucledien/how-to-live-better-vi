@@ -16,7 +16,11 @@ Bản gốc có thể có sai sót hoặc thông tin đã cũ. Chính sách có 
 
 ## Cách đọc từng mục
 
-**Chi phí** cho biết việc đó cần bao nhiêu tiền, thời gian hay công sức. **Nói dễ hiểu** trình bày ý chính bằng ngôn ngữ hằng ngày. **Lợi ích** giữ số liệu và điều kiện nghiên cứu để bạn có thể kiểm tra. **Nguồn** dẫn về tài liệu gốc. **Lưu ý** ghi giới hạn, ý kiến trái chiều và những gì mới chỉ là suy luận.
+Mỗi mục mở đầu bằng **ý chính**: điều nên biết hoặc việc cần làm, viết bằng ngôn ngữ hằng ngày. Tiếp theo là **Chi phí**, cho biết tiền, thời gian và công sức cần bỏ ra. **Lưu ý** nêu các điều kiện áp dụng, giới hạn hoặc điều cần thận trọng.
+
+Phần **Chi tiết và cơ sở** dành cho bạn muốn tìm hiểu kỹ hơn: các kết quả nghiên cứu, số liệu, lý do và mức độ chắc chắn. **Dẫn chứng** giữ tài liệu gốc để tra cứu. Những phần này khác với ý chính ở độ sâu, không phải là một lời khuyên khác.
+
+Trong EPUB trên Apple Books, chạm **i Chi tiết và dẫn chứng** hoặc **i Ghi chú Việt Nam** để mở phần bổ sung, rồi đóng lại để đọc tiếp. Các lưu ý cần thiết vẫn hiện ngay trong nội dung. PDF trình bày các phần bổ sung bằng chữ nhỏ hơn và khung ghi chú; vì là trang cố định nên không có thao tác thu gọn. Mục lục sách nằm sau trang bìa. Các số mục trong phần giới thiệu chương là liên kết để chuyển nhanh đến nội dung.
 
 Hệ thống bằng chứng của tác giả gồm ba mức:
 
@@ -36,7 +40,7 @@ Mức A không tự động chứng minh quan hệ nhân quả. Một nghiên c�
 
 **Độ lớn hiệu ứng d:** thước đo mức khác biệt giữa các nhóm theo đơn vị chuẩn hóa, không phải phần trăm cải thiện. **Hệ số tương quan r** mô tả chiều và độ mạnh của quan hệ giữa hai đại lượng; tự nó không chứng minh quan hệ nhân quả.
 
-Bản thảo có cả dấu chấm thập phân theo nguồn và dấu phẩy thập phân theo cách viết tiếng Việt; các ký hiệu thống kê và đơn vị được giữ để đối chiếu. Tên bài báo và văn bản pháp luật ở mục Nguồn có thể giữ nguyên ngôn ngữ xuất bản.
+Bản thảo có cả dấu chấm thập phân theo nguồn và dấu phẩy thập phân theo cách viết tiếng Việt; các ký hiệu thống kê và đơn vị được giữ để đối chiếu. Tên bài báo và văn bản pháp luật ở phần Dẫn chứng có thể giữ nguyên ngôn ngữ xuất bản.
 
 ## Nguồn và giấy phép
 

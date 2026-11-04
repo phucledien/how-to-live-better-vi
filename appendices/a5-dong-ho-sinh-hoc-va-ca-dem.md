@@ -8,15 +8,15 @@ Cơ thể có thật sự biết đang mấy giờ không? Nếu có, tại sao 
 
 Trong vùng dưới đồi của não có một cụm khoảng 20000 tế bào thần kinh, gọi là nhân trên giao thoa, đóng vai trò đồng hồ trung tâm.
 
-Nhịp của nó dựa trên các gen đồng hồ tạo vòng phản hồi. Hai protein CLOCK, BMAL1 kích hoạt phiên mã các gen PER, CRY. Protein PER, CRY tích lũy rồi quay lại ức chế bộ đôi đã kích hoạt chúng. Khi protein phân hủy, vòng lặp bắt đầu lại, mất khoảng 24 giờ.
+Nhịp hoạt động của đồng hồ này được tạo bởi một vòng phản hồi giữa các gen đồng hồ. Hai protein CLOCK và BMAL1 kích hoạt quá trình phiên mã các gen PER và CRY. Khi tích lũy đủ, các protein PER và CRY quay lại ức chế bộ đôi đã kích hoạt chúng. Sau khi các protein phân hủy, vòng lặp bắt đầu lại. Một chu kỳ kéo dài khoảng 24 giờ.
 
-Vì thế đồng hồ không cần liên tục nhìn ra ngoài để đoán thời gian. Trong phòng không ánh sáng, không đồng hồ, không dấu hiệu sinh hoạt xã hội, nhịp vẫn chạy. Nhưng chu kỳ không đúng tuyệt đối 24 giờ nên dần lệch từng ngày. Giải Nobel Sinh lý học hoặc Y học 2017 được trao cho ba nhà nghiên cứu khám phá cơ chế phân tử giữ nhịp này.
+Vì thế, đồng hồ sinh học không cần liên tục nhận tín hiệu bên ngoài mới biết thời gian. Trong căn phòng không có ánh sáng, đồng hồ hay dấu hiệu sinh hoạt xã hội, nhịp này vẫn tiếp tục chạy. Tuy nhiên, chu kỳ không dài chính xác 24 giờ nên sẽ lệch dần qua từng ngày. Giải Nobel Sinh lý học hoặc Y học năm 2017 được trao cho ba nhà nghiên cứu đã khám phá cơ chế phân tử giữ nhịp này.
 
 ## 2. Ánh sáng chỉnh đồng hồ qua con đường khác với nhìn rõ hình ảnh
 
-Ngoài tế bào tạo hình ảnh, võng mạc còn có tế bào cảm quang chứa sắc tố melanopsin. Chúng chuyển thông tin ánh sáng đến đồng hồ trung tâm qua chức năng không tạo hình ảnh.
+Ngoài các tế bào giúp tạo hình ảnh, võng mạc còn có tế bào cảm quang chứa sắc tố melanopsin. Chúng truyền thông tin về ánh sáng tới đồng hồ trung tâm qua một con đường không có chức năng tạo hình ảnh.
 
-Vì vậy khả năng ánh sáng đồng bộ nhịp không hoàn toàn trùng với khả năng nhìn thấy đồ vật. Một số người mù hoàn toàn về thị giác hình ảnh vẫn có nhịp sinh học được ánh sáng đồng bộ.
+Vì vậy, khả năng dùng ánh sáng để đồng bộ nhịp sinh học không hoàn toàn trùng với khả năng nhìn thấy đồ vật. Một số người hoàn toàn không nhìn được hình ảnh vẫn có nhịp sinh học được đồng bộ theo ánh sáng.
 
 Đó là lý do chương 3, mục 2 về thức dậy giờ cố định, kể cả cuối tuần, đi cùng tiếp xúc ánh sáng buổi sáng.
 
@@ -26,19 +26,19 @@ Gan, ruột, tim, mô mỡ đều có đồng hồ ngoại vi riêng.
 
 Đồng hồ trung tâm nhận tín hiệu thời gian từ ánh sáng. **Thời điểm ăn là một tín hiệu quan trọng cho các đồng hồ ngoại vi.**
 
-Trong sinh hoạt bình thường, hai nguồn thường khớp: ban ngày có ánh sáng, ban ngày ăn. Bạn ít nhận ra đây là các hệ có thể lệch nhau.
+Trong sinh hoạt bình thường, hai tín hiệu thường khớp nhau: có ánh sáng vào ban ngày và bạn cũng ăn vào ban ngày. Vì thế, ta ít nhận ra rằng các hệ giữ nhịp này có thể lệch nhau.
 
 ## 4. Ca đêm có thể làm các nhịp lệch nhau, ngoài chuyện thiếu ngủ
 
-Người làm đêm vẫn gặp ánh sáng và tham gia đời sống xã hội ban ngày, nên đồng hồ trung tâm thường còn gắn nhiều với chu kỳ sáng tối bên ngoài. Nhưng họ lại ăn, làm việc, huy động chuyển hóa vào lúc đêm sinh học; các nhịp ngoại vi nhận tín hiệu theo lịch khác.
+Người làm đêm vẫn tiếp xúc với ánh sáng và tham gia sinh hoạt xã hội ban ngày, nên đồng hồ trung tâm thường còn chịu ảnh hưởng lớn của chu kỳ sáng tối bên ngoài. Nhưng họ lại ăn, làm việc và huy động hoạt động chuyển hóa vào thời điểm cơ thể vốn coi là ban đêm. Các đồng hồ ngoại vi vì thế nhận tín hiệu theo một lịch khác.
 
-Tình trạng này gọi là lệch nhịp sinh học. Vấn đề không chỉ số giờ ngủ mất đi, mà còn sự không khớp giữa lịch hành vi và các nhịp trong cơ thể.
+Tình trạng ấy được gọi là lệch nhịp sinh học. Vấn đề không chỉ nằm ở số giờ ngủ bị mất, mà còn ở việc lịch sinh hoạt không khớp với các nhịp bên trong cơ thể.
 
 ## 5. Làm lâu chưa chắc thích nghi hoàn toàn
 
 Có người nghĩ giữ ca đêm cố định nhiều năm rồi sẽ quen. Tổng quan Folkard (2008) gộp sáu nghiên cứu, dùng nhịp tiết melatonin để đánh giá người làm ca đêm thường xuyên. Nhịp melatonin là một chỉ dấu quan trọng của đồng hồ nội sinh.
 
-Kết quả: dưới 3% đạt thích nghi hoàn toàn, dưới một phần tư đạt mức thích nghi đáng kể. Làm lâu không bảo đảm đồng hồ đã đảo hẳn. Ánh sáng và lịch sinh hoạt ban ngày tiếp tục kéo nhịp về lại.
+Kết quả cho thấy dưới 3% người tham gia thích nghi hoàn toàn, và chưa đến một phần tư thích nghi ở mức đáng kể. Làm ca đêm lâu năm không bảo đảm đồng hồ sinh học đã đảo hẳn theo lịch làm việc. Ánh sáng và sinh hoạt ban ngày vẫn tiếp tục kéo nhịp trở lại.
 
 ## 6. Làm sao biết lệch nhịp có tác động, thay vì chỉ thiếu ngủ?
 
@@ -52,7 +52,7 @@ Scheer và cộng sự (2009) cho mười người trưởng thành ở phòng t
 - Huyết áp động mạch trung bình tăng 3%.
 - Hiệu suất ngủ giảm 20%.
 
-Trong tám người có đủ dữ liệu, ba người có đường huyết sau ăn vào khoảng tiền đái tháo đường, trong thí nghiệm mười ngày.
+Trong tám người có đủ dữ liệu, ba người có đường huyết sau ăn tăng đến khoảng tiền đái tháo đường ngay trong thí nghiệm kéo dài mười ngày.
 
 Bản gốc kết luận lịch lệch có thể gây những thay đổi này trong điều kiện kiểm soát năng lượng, thay vì chỉ quy cho ăn nhiều. Tuy nhiên, chính thí nghiệm cũng ghi hiệu suất ngủ giảm; việc giữ lượng ăn cố định không đủ để khẳng định mọi tác động của giấc ngủ đã bị loại trừ. Cần phân biệt kết quả của chế độ gây lệch nhịp với kết luận tuyệt đối “không liên quan thiếu ngủ”.
 
@@ -60,13 +60,13 @@ Bản gốc kết luận lịch lệch có thể gây những thay đổi này t
 
 Nếu thời điểm ăn ảnh hưởng nhịp ngoại vi, có thể thử giữ lịch ca nhưng tránh bữa đêm. Thử nghiệm ngẫu nhiên NCT02291952 được bản gốc mô tả gồm 20 người khỏe mạnh mô phỏng ca đêm, chia hai nhóm: ăn cả ngày lẫn đêm như lịch thường gặp, hoặc chỉ ăn ban ngày.
 
-Bài báo kết quả chính của Chellappa và cộng sự (2021) ghi nhóm ăn đêm xuất hiện lệch giữa nhịp trung tâm và nhịp đường huyết ngoại vi, dung nạp glucose kém đi; nhóm chỉ ăn ngày không xuất hiện hai thay đổi ấy.
+Bài báo công bố kết quả chính của Chellappa và cộng sự (2021) ghi nhận ở nhóm ăn đêm, nhịp trung tâm lệch với nhịp đường huyết ngoại vi, đồng thời khả năng dung nạp glucose giảm. Nhóm chỉ ăn ban ngày không xuất hiện hai thay đổi này.
 
-Phân tích thứ cấp về tim mạch của cùng thử nghiệm, công bố 2025, ghi nhóm ăn đêm có chỉ số điều hòa phế vị tim pNN50 giảm 25,7%, RMSSD giảm 14,3%; LF/HF, chỉ số thường dùng khi xem điều hòa tự chủ tim, tăng 5,5%; PAI-1, yếu tố liên quan tạo huyết khối, tăng 23,9%. Nhóm chỉ ăn ngày không xuất hiện các biến đổi đó. LF/HF không nên được hiểu như phép đo đơn giản, hoàn hảo của “cân bằng giao cảm–phế vị”, dù bản gốc diễn giải theo cách ấy.
+Phân tích thứ cấp về tim mạch của cùng thử nghiệm, công bố năm 2025, ghi nhận ở nhóm ăn đêm: hai chỉ số điều hòa tim qua thần kinh phế vị là pNN50 và RMSSD lần lượt giảm 25,7% và 14,3%; LF/HF, chỉ số thường dùng để đánh giá điều hòa tự chủ của tim, tăng 5,5%; PAI-1, yếu tố liên quan đến hình thành huyết khối, tăng 23,9%. Nhóm chỉ ăn ban ngày không có các biến đổi này. Không nên coi LF/HF là phép đo đơn giản và hoàn hảo của “cân bằng giao cảm–phế vị”, dù bản gốc diễn giải theo cách đó.
 
 **Mẫu chỉ khoảng 20 người và làm ca mô phỏng, không phải thử nghiệm dài hạn ở công nhân làm đêm thực tế.**
 
-Tổng quan Wulandari và cộng sự (2026) tìm qua sáu cơ sở dữ liệu chỉ có bốn thử nghiệm phù hợp. Kết quả không đồng nhất: có nghiên cứu thấy insulin đói, kháng insulin cải thiện, có nghiên cứu không; cả bốn không thấy thay đổi HDL. Về đường huyết sau ăn, nhịn ăn ban đêm 10,75 giờ tốt hơn lịch ăn đêm kèm ăn khuya trong thử nghiệm tương ứng. Tác giả tổng quan cho rằng số thử nghiệm quá ít để khái quát rộng.
+Tổng quan của Wulandari và cộng sự (2026) tìm kiếm trên sáu cơ sở dữ liệu nhưng chỉ có bốn thử nghiệm đáp ứng tiêu chí. Kết quả không đồng nhất: có nghiên cứu ghi nhận insulin lúc đói và tình trạng kháng insulin cải thiện, nhưng có nghiên cứu không thấy điều đó; cả bốn đều không thấy HDL thay đổi. Trong thử nghiệm có so sánh tương ứng, nhịn ăn ban đêm 10,75 giờ cho kết quả đường huyết sau ăn tốt hơn lịch ăn đêm kèm ăn khuya. Nhóm tác giả cho rằng số thử nghiệm còn quá ít để khái quát rộng.
 
 Có tín hiệu từ thử nghiệm ngẫu nhiên rằng tập trung ăn ban ngày khi làm ca đêm có thể hữu ích, nhưng bằng chứng còn mỏng. Bản gốc xem đây là cách ít tốn tiền có thể cân nhắc; điều đó không chứng minh ai cũng dễ áp dụng hay phù hợp với mọi bệnh, thuốc và cường độ công việc. Hướng thứ hai là dùng ánh sáng để dịch chuyển nhịp.
 
@@ -74,9 +74,9 @@ Có tín hiệu từ thử nghiệm ngẫu nhiên rằng tập trung ăn ban ng�
 
 Về nguyên lý có thể, và đã thực hiện trong phòng thí nghiệm. Nhưng độ sáng, thời điểm và môi trường ngủ được kiểm soát chặt hơn sinh hoạt thường ngày.
 
-Czeisler và cộng sự (1990) so hai điều kiện ở tám nam thanh niên làm ca đêm trong một tuần. Đối chứng dùng ánh sáng phòng khoảng 150 lux; lux là đơn vị độ rọi, phòng đèn thường có thể ở mức một, hai trăm. Sau sáu đêm, thời điểm thân nhiệt thấp nhất vẫn quanh 3 giờ 30 sáng, cho thấy nhịp chưa chuyển nhiều.
+Czeisler và cộng sự (1990) so sánh hai điều kiện ở tám nam thanh niên làm ca đêm trong một tuần. Điều kiện đối chứng dùng ánh sáng phòng khoảng 150 lux. Lux là đơn vị độ rọi; ánh sáng đèn phòng thông thường có thể ở mức một, hai trăm lux. Sau sáu đêm, thân nhiệt vẫn đạt mức thấp nhất vào khoảng 3 giờ 30 sáng, cho thấy nhịp chưa dịch chuyển nhiều.
 
-Điều kiện can thiệp dùng ánh sáng 7000–12000 lux ban đêm và ngủ ban ngày gần như tối hoàn toàn. Sau bốn ngày, điểm thân nhiệt thấp nhất chuyển đến gần 15 giờ, tức gần đảo ngược.
+Trong điều kiện can thiệp, người tham gia tiếp xúc với ánh sáng 7000–12000 lux vào ban đêm và ngủ ban ngày trong môi trường gần như tối hoàn toàn. Sau bốn ngày, thời điểm thân nhiệt thấp nhất chuyển đến gần 15 giờ, tức gần như đảo ngược so với trước.
 
 ### Các nghiên cứu phối hợp ánh sáng ban đêm và tránh sáng khi ngủ
 
@@ -84,9 +84,9 @@ Czeisler và cộng sự (1990) so hai điều kiện ở tám nam thanh niên l
 
 **Môi trường ngủ ban ngày phải tối.** Rèm cản sáng, bịt mắt là cách tác giả đề xuất. Nghiên cứu kết hợp cả sáng mạnh ban đêm lẫn tối gần hoàn toàn ban ngày, không chứng minh chỉ làm một trong hai sẽ có cùng hiệu quả.
 
-**Hạn chế ánh sáng sau tan ca.** Bản gốc đề nghị kính râm trên đường về. Thí nghiệm 50 người năm 1994 thấy ánh sáng mạnh và kính râm đều có tác động, kết hợp tốt nhất; không kính, nhịp chỉ dịch sớm, không về hướng cần cho lịch ngủ ngày trong thiết kế đó. Nguồn được liệt kê ở chương 2, mục 39.
+**Hạn chế ánh sáng sau tan ca.** Bản gốc đề nghị đeo kính râm trên đường về. Một thí nghiệm với 50 người năm 1994 ghi nhận cả ánh sáng mạnh và kính râm đều có tác động; kết hợp hai biện pháp cho kết quả tốt nhất. Khi không đeo kính, nhịp chỉ dịch sớm hơn, không chuyển theo hướng cần thiết cho lịch ngủ ban ngày trong thiết kế thí nghiệm đó. Nguồn được liệt kê ở chương 2, mục 39.
 
-Tác động ánh sáng tùy pha: trước điểm thân nhiệt thấp nhất thường làm nhịp trễ, sau điểm đó thường làm nhịp sớm. Ánh sáng sáng sớm trên đường về có thể kéo ngược hướng đang muốn dịch trong đêm. Không nên tự suy ra mọi người tan ca đều ở cùng pha; nghiên cứu kiểm soát thời điểm chặt. Khi di chuyển, nhất là lái xe, việc giảm sáng cũng phải bảo đảm nhìn đường an toàn.
+Tác động của ánh sáng phụ thuộc vào thời điểm trong chu kỳ sinh học. Ánh sáng trước lúc thân nhiệt thấp nhất thường làm nhịp trễ hơn, còn sau thời điểm ấy thường làm nhịp sớm hơn. Vì vậy, ánh sáng sớm trên đường về có thể kéo nhịp ngược với hướng muốn điều chỉnh trong đêm. Không nên mặc định mọi người tan ca đều đang ở cùng một pha sinh học; các nghiên cứu kiểm soát thời điểm rất chặt. Khi di chuyển, nhất là lái xe, việc giảm tiếp xúc ánh sáng vẫn phải bảo đảm nhìn đường an toàn.
 
 ### Khó giữ điều kiện phòng thí nghiệm ngoài đời
 
@@ -96,9 +96,9 @@ Vì vậy thực hành thường hướng đến dịch một phần, cân bằn
 
 ### Hiệu quả đã đo được đến đâu?
 
-Phân tích gộp 11 nghiên cứu của Zhao và cộng sự (2025) ghi liệu pháp ánh sáng liên quan tổng thời gian ngủ tăng khoảng 32,5 phút, hiệu suất ngủ tăng khoảng 2,91 theo cách báo cáo của bài gốc. Dải được mô tả hiệu quả là 900–6000 lux, ít nhất một giờ mỗi đêm. Bài gốc không ghi rõ đơn vị của mức tăng 2,91; không tự quy thành phần trăm nguy cơ hay mức cải thiện cá nhân.
+Phân tích gộp 11 nghiên cứu của Zhao và cộng sự (2025) ghi nhận liệu pháp ánh sáng có liên hệ với tổng thời gian ngủ tăng khoảng 32,5 phút và hiệu suất ngủ tăng khoảng 2,91 theo cách báo cáo của bài gốc. Khoảng độ rọi được mô tả là có hiệu quả là 900–6000 lux, dùng ít nhất một giờ mỗi đêm. Bài gốc không ghi rõ đơn vị của mức tăng 2,91; không tự quy đổi con số này thành phần trăm nguy cơ hay mức cải thiện của từng người.
 
-Nghiên cứu phòng thí nghiệm Lammers-van der Holst và cộng sự (2021) dùng ánh sáng mạnh ngắt quãng: nhịp melatonin chồng lên thời gian ngủ bố trí 4,90 giờ ở nhóm can thiệp, 2,62 giờ đối chứng, P=0,002. Suy giảm kết quả nhận thức ở ca đêm cuối của đối chứng được hạn chế trong nhóm can thiệp. Nhóm tác giả nói rõ cần kiểm nghiệm ở người làm đêm thật.
+Nghiên cứu trong phòng thí nghiệm của Lammers-van der Holst và cộng sự (2021) dùng các đợt tiếp xúc ngắt quãng với ánh sáng mạnh. Khoảng thời gian nhịp melatonin trùng với lịch ngủ được bố trí là 4,90 giờ ở nhóm can thiệp, so với 2,62 giờ ở nhóm đối chứng, P=0,002. Nhóm đối chứng có kết quả nhận thức giảm ở ca đêm cuối; mức suy giảm này được hạn chế ở nhóm can thiệp. Các tác giả nói rõ cần kiểm nghiệm tiếp ở người thực sự làm ca đêm.
 
 ### Điều chưa được chứng minh: bệnh tim mạch có giảm không?
 

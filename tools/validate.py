@@ -9,6 +9,7 @@ from xml.etree import ElementTree as ET
 import pymupdf
 from bs4 import BeautifulSoup
 import markdown
+from reading import canonical_labels
 
 ROOT=Path(__file__).resolve().parents[1]
 DEFAULT=Path(os.environ.get('HLTB_BUILD_ROOT', Path.home()/'Library/Developer/CodexBuilds/HowToLiveBetter-vi'))/'exports'
@@ -47,19 +48,19 @@ for c in m['chapters']:
  if c['status'] not in ('draft','reviewed'):continue
  original=source/c['source'];translated=ROOT/c['translation']
  if hashlib.sha256(original.read_bytes()).hexdigest()!=c['source_sha256']:errors.append(f'Source drift: {original}')
- zh=original.read_text();vi=translated.read_text();a=entries(zh);b=entries(vi)
+ zh=original.read_text();vi=canonical_labels(translated.read_text());a=entries(zh);b=entries(vi)
  if re.search(r'@SOURCE-|TODO|待翻译',vi):errors.append(f'Unfinished placeholder in chapter {c["number"]}')
  if list(b)!=list(a):errors.append(f'Entry numbering mismatch chapter {c["number"]}')
  for n,z in a.items():
-  v=b.get(n,'');required=['Chi phí','Nói dễ hiểu','Lợi ích','Mức độ bằng chứng','Nguồn','Lưu ý']
+  v=b.get(n,'');required=['Chi phí','Ý chính','Chi tiết và cơ sở','Mức độ bằng chứng','Dẫn chứng','Lưu ý']
   for key in required:
    if not vifield(v,key).strip():errors.append(f'Chapter {c["number"]}.{n}: missing {key}')
   grade=field(z,'证据等级').strip();vg=vifield(v,'Mức độ bằng chứng').strip()
   if not vg.startswith(re.match(r'[ABC]',grade)[0] if re.match(r'[ABC]',grade) else grade):errors.append(f'Evidence grade mismatch {c["number"]}.{n}: {grade} / {vg}')
   if '争议' in grade and 'tranh' not in vg:errors.append(f'Missing disputed-grade qualifier {c["number"]}.{n}')
-  missing=urls(field(z,'来源'))-urls(vifield(v,'Nguồn'))
+  missing=urls(field(z,'来源'))-urls(vifield(v,'Dẫn chứng'))
   if missing:errors.append(f'Citation URLs missing {c["number"]}.{n}: {sorted(missing)}')
-  significant=numeric_missing(field(z,'收益'),vifield(v,'Lợi ích'))
+  significant=numeric_missing(field(z,'收益'),vifield(v,'Chi tiết và cơ sở'))
   if significant:warnings.append({'chapter':c['number'],'entry':n,'source_numbers_not_literal_in_vi_benefit':significant})
  stats.append({'chapter':c['number'],'entries':len(b),'source_urls':len(urls(zh)),'translation_urls':len(urls(vi))})
 
@@ -68,7 +69,7 @@ for a in m.get('appendices',[]):
  if a['status'] not in ('draft','reviewed'):continue
  original=source/a['source'];translated=ROOT/a['translation']
  if hashlib.sha256(original.read_bytes()).hexdigest()!=a['source_sha256']:errors.append(f'Source drift: {original}')
- zh=original.read_text();vi=translated.read_text()
+ zh=original.read_text();vi=canonical_labels(translated.read_text())
  missing=urls(zh)-urls(vi)
  if missing:errors.append(f'Citation URLs missing appendix {a["id"]}: {sorted(missing)}')
  if re.search(r'@SOURCE-|TODO|待翻译',vi):errors.append(f'Unfinished placeholder in appendix {a["id"]}')
@@ -101,13 +102,23 @@ with zipfile.ZipFile(epub) as z:
  if z.namelist()[0]!='mimetype' or z.getinfo('mimetype').compress_type!=zipfile.ZIP_STORED:errors.append('Invalid EPUB mimetype packaging')
  files={n:ET.fromstring(z.read(n)) for n in z.namelist() if n.endswith(('.xhtml','.opf','.xml'))}
  ns={'h':'http://www.w3.org/1999/xhtml'}
+ opf=files['EPUB/package.opf'];op={'o':'http://www.idpf.org/2007/opf'}
+ order=[i.get('idref') for i in opf.findall('.//o:spine/o:itemref',op)]
+ if order[:2]!=['cover','contents']:errors.append('Visible contents page must follow cover')
+ for name,tree in files.items():
+  for ref in tree.findall('.//h:a',ns):
+   if ref.get('{http://www.idpf.org/2007/ops}type')=='noteref':
+    parts=urlsplit(ref.get('href'));target=str(Path(name).parent/parts.path) if parts.path else name
+    note=next((e for e in files[target].iter() if e.get('id')==parts.fragment),None) if target in files else None
+    if note is None or note.tag!='{http://www.w3.org/1999/xhtml}aside' or note.get('{http://www.idpf.org/2007/ops}type')!='footnote':errors.append(f'Invalid Apple Books footnote {name}: {ref.get("href")}')
+
  for name,tree in files.items():
   if not name.endswith('.xhtml'):continue
   chapter_match=re.fullmatch(r'EPUB/chapter-(\d+)\.xhtml',name)
   if chapter_match:
    chapter=next(c for c in m['chapters'] if c['number']==int(chapter_match[1]))
-   for label in ('Chi phí:','Nói dễ hiểu:','Lợi ích:','Mức độ bằng chứng:','Nguồn:','Lưu ý:'):
-    count=sum(''.join(li.itertext()).strip().startswith(label) for li in tree.findall('.//h:li',ns))
+   for label in ('Chi phí','Ý chính','Chi tiết và cơ sở','Mức độ bằng chứng','Dẫn chứng','Lưu ý'):
+    count=sum(el.get('data-field')==label for el in tree.iter())
     if count!=chapter['entries']:errors.append(f'Rendered field lost in {name}: {label} {count}/{chapter["entries"]}')
   ids={e.get('id') for e in tree.iter() if e.get('id')}
   for a in tree.findall('.//h:a',ns):
@@ -116,9 +127,10 @@ with zipfile.ZipFile(epub) as z:
    parts=urlsplit(href);target=str(Path(name).parent/parts.path) if parts.path else name
    if target not in files:errors.append(f'Broken EPUB link {name} -> {href}');continue
    if parts.fragment and not any(e.get('id')==unquote(parts.fragment) for e in files[target].iter()):errors.append(f'Broken EPUB anchor {name} -> {href}')
-  if name.endswith(('nav.xhtml','cover.xhtml')):continue
+  if name.endswith(('nav.xhtml','contents.xhtml','cover.xhtml')):continue
   for tag in ('p','li'):
    for p in tree.findall('.//h:'+tag,ns):
+    if p.get('data-ui')=='true':continue
     t=''.join(p.itertext())
     if norm(t) and norm(t) not in pdftext:missing_paragraphs.append({'file':name,'text':t[:200]})
 if missing_paragraphs:errors.append(f'{len(missing_paragraphs)} paragraphs not matched in PDF text extraction; inspect before delivery')

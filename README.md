@@ -3,18 +3,18 @@
   <p><strong>Cân nhắc thời gian, sức khỏe, tiền bạc và tự do.</strong></p>
   <p>Bản dịch tiếng Việt độc lập của <em>高性价比人生指南</em> · <a href="https://github.com/eternity4719/HowToLiveBetter">HowToLiveBetter</a></p>
   <p>
-    <a href="https://github.com/phucledien/how-to-live-better-vi/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/phiên_bản-v0.1.0-205b58" alt="Phiên bản v0.1.0"></a>
+    <a href="https://github.com/phucledien/how-to-live-better-vi/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/phiên_bản-v0.2.0-205b58" alt="Phiên bản v0.2.0"></a>
     <a href="book/00-loi-mo-dau.md"><img src="https://img.shields.io/badge/ngôn_ngữ-Tiếng_Việt-e9c46a" alt="Ngôn ngữ: tiếng Việt"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/nội_dung-CC_BY_4.0-blue" alt="Giấy phép CC BY 4.0"></a>
   </p>
-  <p><a href="book/00-loi-mo-dau.md"><strong>Đọc từ đầu</strong></a> · <a href="PROGRESS.md"><strong>Mục lục đầy đủ</strong></a> · <a href="https://github.com/phucledien/how-to-live-better-vi/releases/tag/v0.1.0"><strong>Tải sách</strong></a></p>
+  <p><a href="book/00-loi-mo-dau.md"><strong>Đọc từ đầu</strong></a> · <a href="PROGRESS.md"><strong>Mục lục đầy đủ</strong></a> · <a href="https://github.com/phucledien/how-to-live-better-vi/releases/tag/v0.2.0"><strong>Tải sách</strong></a></p>
 </div>
 
 ---
 
 ## Một bản tiếng Việt để đọc, hiểu và cân nhắc
 
-Cuốn sách tập hợp những lựa chọn thường gặp trong cuộc sống: giữ sức khỏe, sử dụng tiền và thời gian, đi làm, chăm sóc gia đình, xử lý tình huống khẩn cấp và tránh các rắc rối pháp lý. Mỗi mục trình bày chi phí, ý chính, lợi ích, mức độ bằng chứng, nguồn tham khảo và điều cần lưu ý.
+Cuốn sách tập hợp những lựa chọn thường gặp trong cuộc sống: giữ sức khỏe, sử dụng tiền và thời gian, đi làm, chăm sóc gia đình, xử lý tình huống khẩn cấp và tránh các rắc rối pháp lý. Mỗi mục trình bày ý chính, chi phí, điều cần lưu ý, phần giải thích chi tiết và dẫn chứng.
 
 Bản dịch hướng đến **tiếng Việt tự nhiên, dễ đọc**, có thể đổi cách diễn đạt để giữ đúng ý. Số liệu, mức độ chắc chắn và bối cảnh của nguồn được giữ lại. Những bổ sung dành cho độc giả Việt Nam có nhãn riêng để bạn phân biệt với nguyên tác.
 
@@ -25,19 +25,23 @@ Bản dịch hướng đến **tiếng Việt tự nhiên, dễ đọc**, có th
 | Bài bổ sung | **9 / 9** |
 | Định dạng tải về | **Markdown · EPUB · PDF** |
 
-> **Trạng thái v0.1.0:** Bản thảo dịch đầy đủ, có hỗ trợ AI và đã tự đối chiếu. Chưa được thẩm định y khoa, pháp lý độc lập toàn bộ. Luật, thủ tục và số liệu của Trung Quốc vẫn được ghi đúng bối cảnh; không mặc nhiên áp dụng tại Việt Nam. Xem [những điểm cần rà soát tiếp](editorial/REVIEW_PRIORITIES.md).
+> **Trạng thái v0.2.0:** Bản thảo đầy đủ, đã rà soát cách diễn đạt và thiết kế lại trải nghiệm đọc; có hỗ trợ AI và tự đối chiếu. Chưa được thẩm định y khoa, pháp lý độc lập toàn bộ. Luật, thủ tục và số liệu của Trung Quốc vẫn được ghi đúng bối cảnh; không mặc nhiên áp dụng tại Việt Nam. Xem [những điểm cần rà soát tiếp](editorial/REVIEW_PRIORITIES.md).
 
-## Tải bản đầu tiên
+## Tải bản mới nhất
 
 | Định dạng | Phù hợp khi bạn muốn | Tải về |
 | :--- | :--- | :--- |
-| **EPUB** | Đọc trên điện thoại hoặc máy đọc sách; đổi cỡ chữ theo ý thích | [Tải EPUB](https://github.com/phucledien/how-to-live-better-vi/releases/download/v0.1.0/Song-tot-hon-vi-ban-nhap.epub) |
-| **PDF** | Đọc với bố cục trang cố định, mục lục số trang và bookmark | [Tải PDF](https://github.com/phucledien/how-to-live-better-vi/releases/download/v0.1.0/Song-tot-hon-vi-ban-nhap.pdf) |
-| **Markdown** | Tìm kiếm, ghi chú hoặc biên tập toàn bộ nội dung | [Tải Markdown](https://github.com/phucledien/how-to-live-better-vi/releases/download/v0.1.0/Song-tot-hon-vi-ban-nhap.md) |
+| **EPUB** | Đọc trên điện thoại hoặc máy đọc sách; đổi cỡ chữ theo ý thích | [Tải EPUB](https://github.com/phucledien/how-to-live-better-vi/releases/download/v0.2.0/Song-tot-hon-vi-ban-nhap.epub) |
+| **PDF** | Đọc với bố cục trang cố định, mục lục số trang và bookmark | [Tải PDF](https://github.com/phucledien/how-to-live-better-vi/releases/download/v0.2.0/Song-tot-hon-vi-ban-nhap.pdf) |
+| **Markdown** | Tìm kiếm, ghi chú hoặc biên tập toàn bộ nội dung | [Tải Markdown](https://github.com/phucledien/how-to-live-better-vi/releases/download/v0.2.0/Song-tot-hon-vi-ban-nhap.md) |
 
-EPUB có phông tiếng Việt nhúng và tự dàn theo màn hình. PDF dùng khổ sách 170 × 240 mm, có số trang và liên kết điều hướng. Các bảng rộng được chuyển thành từng nhóm thông tin để đọc thuận tiện trên trang hẹp.
+EPUB có **trang mục lục ngay sau bìa**, mục lục chi tiết trong ứng dụng và liên kết ở các số mục được nhắc đến. Trong **Apple Books**, chạm **i Chi tiết và dẫn chứng** hoặc **i Ghi chú Việt Nam** để mở phần bổ sung. Các cảnh báo cần đọc vẫn hiện cùng nội dung chính. Ứng dụng khác có thể hiện ghi chú trực tiếp nếu không hỗ trợ cửa sổ ghi chú.
 
-[Chi tiết bản phát hành và dấu kiểm SHA-256 →](https://github.com/phucledien/how-to-live-better-vi/releases/tag/v0.1.0)
+PDF dùng khổ sách 170 × 240 mm, chữ Noto Serif 11,2 pt, giãn dòng 18 pt, mục lục có số trang và bookmark. Phần nghiên cứu, dẫn chứng và ghi chú dùng chữ nhỏ hơn; PDF giữ chúng trên trang vì định dạng này không hỗ trợ cách mở ghi chú như Apple Books. Các bảng rộng được chuyển thành từng nhóm thông tin để đọc trên trang hẹp.
+
+**Đã tải v0.1.0?** Hãy tải và nhập file EPUB mới vào Books; bản đã nhập trước đó không tự cập nhật. Bản mới mang tên *Sống tốt hơn — Tiếng Việt v0.2.0* trong thư viện.
+
+[Chi tiết bản phát hành và dấu kiểm SHA-256 →](https://github.com/phucledien/how-to-live-better-vi/releases/tag/v0.2.0)
 
 ## Bắt đầu từ điều bạn đang quan tâm
 
@@ -58,7 +62,7 @@ EPUB có phông tiếng Việt nhúng và tự dàn theo màn hình. PDF dùng k
 - **Tách ghi chú Việt Nam.** Không tự thay luật Trung Quốc bằng luật Việt Nam, đổi quần thể nghiên cứu hay quy đổi giá như thể chúng tương đương.
 - **Đánh dấu điểm cần hiệu đính.** Khi nguồn có chỗ mâu thuẫn hoặc có thể gây hiểu nhầm, phần ghi chú giải thích riêng và dẫn nguồn bổ sung khi có.
 
-Đọc thêm [lời mở đầu](book/00-loi-mo-dau.md), [quy ước dịch](editorial/STYLE.md) và [báo cáo kiểm tra bản phát hành](docs/QA-v0.1.0.md).
+Đọc thêm [lời mở đầu](book/00-loi-mo-dau.md), [quy ước dịch](editorial/STYLE.md) và [báo cáo kiểm tra bản phát hành](docs/QA-v0.2.0.md).
 
 ## Góp ý và cùng biên tập
 

@@ -28,7 +28,7 @@ Nói cách khác, ba nhóm livestream tương ứng ba thủ tục. Có người
 
 **Cá nhân không thể đứng tên xin giấy phép viễn thông giá trị gia tăng.** Điều kiện đầu tiên yêu cầu đơn vị kinh doanh phải là công ty được thành lập hợp pháp. Vì vậy, cần lập công ty trước; chỉ mang giấy tờ tùy thân đi xin sẽ không được. Nếu chỉ kinh doanh trong một tỉnh của Trung Quốc, vốn đăng ký tối thiểu là 1 triệu CNY; nếu kinh doanh liên tỉnh, tối thiểu 10 triệu CNY. Thời hạn thẩm định sau khi nộp hồ sơ là 60 ngày, giấy phép có hiệu lực 5 năm. Muốn làm dịch vụ thu phí thuộc diện này, phải thành lập công ty trước; xem chương 12 (Khởi nghiệp và kinh doanh).
 
-**Giấy phép chương trình nghe nhìn về cơ bản rất khó dành cho doanh nghiệp tư nhân.** Điều kiện được bản gốc dẫn là đơn vị phải có tư cách pháp nhân, thuộc sở hữu hoàn toàn của Nhà nước hoặc do Nhà nước nắm quyền chi phối. Theo cách giải thích của tác giả, doanh nghiệp khởi nghiệp tư nhân làm video dài hoặc chương trình tự sản xuất không đáp ứng điều kiện đó. Bản gốc vì vậy hướng người muốn làm livestream sang giấy phép kinh doanh văn hóa trên mạng.
+**Doanh nghiệp tư nhân khó đáp ứng điều kiện xin giấy phép chương trình nghe nhìn.** Điều kiện được bản gốc dẫn là đơn vị phải có tư cách pháp nhân, thuộc sở hữu hoàn toàn của Nhà nước hoặc do Nhà nước nắm quyền chi phối. Theo cách giải thích của tác giả, doanh nghiệp khởi nghiệp tư nhân làm video dài hoặc chương trình tự sản xuất không đáp ứng điều kiện đó. Bản gốc vì vậy hướng người muốn làm livestream sang giấy phép kinh doanh văn hóa trên mạng.
 
 **Ghi chú biên tập:** Câu cuối không có nghĩa mọi loại livestream chỉ cần giấy phép văn hóa. Chính bảng và văn bản năm 2021 phía trên phân biệt biểu diễn, chương trình nghe nhìn và tin tức; phải xác định đúng loại dịch vụ trước.
 
@@ -52,7 +52,7 @@ Có giấy phép mới chỉ là đủ điều kiện mở hoạt động. Sau �
 
 Có bốn cách tính thời hạn lưu trữ, không được trộn lẫn: thông tin giao dịch 3 năm; nội dung livestream 60 ngày; nhật ký mạng 6 tháng; thông tin định danh người bán 3 năm kể từ ngày người đó rời nền tảng. Tác giả khuyên thiết kế hệ thống lưu trữ đủ đáp ứng thời hạn dài nhất, đừng chỉ nhìn thời hạn ngắn nhất. Mỗi loại dữ liệu vẫn phải được quản lý theo nghĩa vụ tương ứng.
 
-## 3. Chọn máy chủ: chọn mức nào cho phù hợp?
+## 3. Chọn máy chủ phù hợp với nhu cầu
 
 Trước khi so giá, hãy trả lời những câu sau.
 
@@ -63,11 +63,11 @@ Trước khi so giá, hãy trả lời những câu sau.
 | Có người chuyên quản trị máy chủ không? | Không | Đừng tự đem cả máy vật lý gửi vào trung tâm dữ liệu |
 | Băng thông hoặc phần cứng có phải khoản chi lớn nhất không? | Có, đồng thời có người chuyên quản trị | Khi ấy mới cân nhắc thuê chỗ đặt máy vật lý tại trung tâm dữ liệu |
 
-**Có thể dùng nhà cung cấp nhỏ, nhưng phải kiểm tra giấy phép trước.** Tại Trung Quốc, kinh doanh dịch vụ đặt máy chủ trong trung tâm dữ liệu và cung cấp truy nhập Internet cho người khác đều thuộc dịch vụ viễn thông giá trị gia tăng cần giấy phép. Tra cứu trong Hệ thống thông tin quản lý tổng hợp thị trường dịch vụ viễn thông của Bộ Công nghiệp và Công nghệ thông tin, tại [tsm.miit.gov.cn](https://tsm.miit.gov.cn), bằng tên đầy đủ của công ty. Theo lời khuyên của tác giả, không tìm thấy giấy phép thì loại khỏi danh sách. Giá chỉ bằng một nửa thường đi kèm ba rủi ro tác giả nêu: bán vượt năng lực máy chủ, chủ doanh nghiệp bỏ trốn hoặc nhà cung cấp đầu trên bị chặn. Nếu có giấy phép, khi xảy ra sự cố còn có thể phản ánh đến cơ quan quản lý thông tin liên lạc; không có thì việc xác định đầu mối khiếu nại khó hơn.
+**Có thể dùng nhà cung cấp nhỏ, nhưng phải kiểm tra giấy phép trước.** Tại Trung Quốc, kinh doanh dịch vụ đặt máy chủ trong trung tâm dữ liệu và cung cấp truy nhập Internet cho người khác đều thuộc dịch vụ viễn thông giá trị gia tăng cần giấy phép. Tra cứu trong Hệ thống thông tin quản lý tổng hợp thị trường dịch vụ viễn thông của Bộ Công nghiệp và Công nghệ thông tin, tại [tsm.miit.gov.cn](https://tsm.miit.gov.cn), bằng tên đầy đủ của công ty. Theo lời khuyên của tác giả, không tìm thấy giấy phép thì loại khỏi danh sách. Tác giả cảnh báo giá chỉ bằng một nửa thường đi cùng ba rủi ro: bán vượt năng lực máy chủ, chủ doanh nghiệp bỏ trốn hoặc nhà cung cấp hạ tầng mà đơn vị đó thuê lại bị chặn. Nếu có giấy phép, khi xảy ra sự cố còn có thể phản ánh đến cơ quan quản lý thông tin liên lạc; không có thì việc xác định đầu mối khiếu nại khó hơn.
 
 **Đặt máy trong hay ngoài Trung Quốc đại lục?** Bản gốc nêu rằng đặt máy trong nước phải đăng ký hồ sơ; nhà cung cấp truy nhập không được kết nối website chưa đăng ký. Đặt máy ở nước ngoài có thể tránh thủ tục đăng ký này, nhưng nếu người dùng và dòng tiền vẫn ở Trung Quốc thì các nghĩa vụ nền tảng tại chương 26, mục 5–10 vẫn cần xét đầy đủ. Đặt ở nước ngoài còn có chi phí tuân thủ về đưa dữ liệu ra nước ngoài. Chuyển thông tin cá nhân của người dùng tại Trung Quốc sang máy chủ ở nước ngoài được nguồn coi là chuyển dữ liệu xuyên biên giới: phải đáp ứng một trong bốn điều kiện tại điều 38 Luật Bảo vệ thông tin cá nhân, đồng thời lấy sự đồng ý riêng của người đó, không gộp vào cả gói điều khoản để bấm chấp nhận một lần.
 
-Số người được bản gốc tính cộng dồn từ ngày 1/1 của năm hiện tại: dưới 100.000 người thì không phải đi một trong ba thủ tục nêu tiếp theo; từ 100.000 đến dưới 1 triệu người thì ký hợp đồng tiêu chuẩn hoặc chứng nhận; từ 1 triệu người trở lên thì khai báo đánh giá an ninh.
+Bản gốc tính cộng dồn số người từ ngày 1/1 của năm hiện tại: dưới 100.000 người thì không phải đi một trong ba thủ tục nêu tiếp theo; từ 100.000 đến dưới 1 triệu người thì ký hợp đồng tiêu chuẩn hoặc chứng nhận; từ 1 triệu người trở lên thì khai báo đánh giá an ninh.
 
 **Ghi chú biên tập:** Đoạn trên giữ cách trình bày ngưỡng số người của bản gốc. Nó chưa nêu đầy đủ các điều kiện, ngoại lệ và cách xử lý dữ liệu nhạy cảm hoặc đơn vị vận hành hạ tầng thông tin trọng yếu; không dùng riêng ba mốc này làm kết luận miễn thủ tục. Cần đối chiếu nguồn tại chương 26 cho trường hợp cụ thể. Đây cũng không phải ngưỡng áp dụng tại Việt Nam.
 

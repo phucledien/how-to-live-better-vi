@@ -3,6 +3,7 @@
 from pathlib import Path
 import argparse, json, re
 from collections import Counter
+from reading import canonical_labels
 ROOT=Path(__file__).resolve().parents[1]
 p=ROOT/'manifest.json';m=json.loads(p.read_text())
 ap=argparse.ArgumentParser();ap.add_argument('chapters',nargs='+',help='Chapter numbers or appendix ids a1–a9');args=ap.parse_args()
@@ -17,9 +18,9 @@ for token in args.chapters:
  n=int(token)
  c=m['chapters'][n-1];files=list((ROOT/'book').glob(f'{n:02}-*.md'))
  if len(files)!=1:raise ValueError(f'Expected exactly one translation file for chapter {n}')
- text=files[0].read_text();got=list(map(int,re.findall(r'^### (\d+)\.',text,re.M)))
+ text=canonical_labels(files[0].read_text());got=list(map(int,re.findall(r'^### (\d+)\.',text,re.M)))
  if got!=list(range(1,c['entries']+1)):raise ValueError(f'Incomplete chapter {n}: {len(got)}/{c["entries"]}')
- for label in ('Chi phí','Nói dễ hiểu','Lợi ích','Mức độ bằng chứng','Nguồn','Lưu ý'):
+ for label in ('Chi phí','Ý chính','Chi tiết và cơ sở','Mức độ bằng chứng','Dẫn chứng','Lưu ý'):
   if len(re.findall(r'^- \*\*'+re.escape(label)+r':\*\*',text,re.M))!=c['entries']:raise ValueError(f'Missing/duplicate field {label} in chapter {n}')
  if not (ROOT/f'editorial/{n:02}-review.md').exists():raise ValueError(f'Missing editorial review for chapter {n}')
  c['translation']=str(files[0].relative_to(ROOT));c['status']='draft'
